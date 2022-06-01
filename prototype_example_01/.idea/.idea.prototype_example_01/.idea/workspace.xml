@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2a91478-4647-4072-959a-a84f5687a889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.prototype_example_01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.prototype_example_01/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.prototype_example_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.prototype_example_01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/quan SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/quan SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Restarter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Restarter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioSlider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioSlider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoxBall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BoxBall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoxBallUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BoxBallUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EffectsToggler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EffectsToggler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameExit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameExit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Restarter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Restarter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +47,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ball.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI_BallBounces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI_Ball.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BoxBallUI.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Restarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameExit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxBall.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EffectsToggler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioSlider.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BoxBall.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameExit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxBallUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Restarter.cs" />
       </list>
     </option>
   </component>
@@ -109,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653983957020</updated>
       <workItem from="1653983960242" duration="8692000" />
-      <workItem from="1654038331425" duration="329000" />
+      <workItem from="1654038331425" duration="1068000" />
     </task>
     <servers />
   </component>
