@@ -11,6 +11,7 @@
           <e p="BoxBall.cs" t="Include" />
           <e p="BoxBallUI.cs" t="Include" />
           <e p="EffectsToggler.cs" t="Include" />
+          <e p="GameExit.cs" t="Include" />
           <e p="Restarter.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
